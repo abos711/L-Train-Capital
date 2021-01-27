@@ -21,6 +21,8 @@ function Cards() {
               label='Williamsburg, Brooklyn, NY'
               path='/portfolio'
             />
+          </ul>
+          <ul className='cards__items'>
             <CardItem
               src='images/Multistore-lease-up-strategy.png'
               text='Multistore retail lease-up'
@@ -33,6 +35,8 @@ function Cards() {
               label='Williamsburg, Brooklyn, NY'
               path='/portfolio'
             />
+          </ul>
+          <ul className='cards__items'>
             <CardItem
               src='images/Multifamily-Renovation-2.png'
               text='Mixed use renovation featuring horizontal extension in rear and lease-up'
