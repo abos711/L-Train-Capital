@@ -7,7 +7,7 @@
   align-items: center;
 }
 
-.footer-subscription {
+.footer-connect {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -19,17 +19,17 @@
   color: #fff;
 }
 
-.footer-subscription > p {
+.footer-connect > p {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
     'Lucida Sans', Arial, sans-serif;
 }
 
-.footer-subscription-heading {
+.footer-connect-heading {
   margin-bottom: 24px;
   font-size: 24px;
 }
 
-.footer-subscription-text {
+.footer-connect-text {
   margin-bottom: 24px;
   font-size: 20px;
 }

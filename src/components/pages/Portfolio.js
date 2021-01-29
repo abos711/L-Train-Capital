@@ -6,7 +6,7 @@ import Footer from '../Footer';
 export default function Portfolio() {
   return (
   <div>
-  <h1 className='portfolio'>Portfolio</h1>
+  <h1 className='portfolio'></h1>
   <Cards />
   <Footer />
   </div>

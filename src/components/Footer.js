@@ -15,8 +15,8 @@ function Footer() {
 
   return (
     <div className='footer-container'>
-      <section className='footer-subscription'>
-        <p className='footer-subscription-heading'>
+      <section className='footer-connect'>
+        <p className='footer-connect-heading'>
           Interested in learning more
         </p>
         <div className='input-areas'>

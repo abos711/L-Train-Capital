@@ -15,17 +15,26 @@
   font-size: 3rem;
 }
 
-.portfolio {
-  background-image: url('/images/img-2.jpg');
+.home {
+  background-image: url('/images/vzGu4kz-1.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  color: #fff;
+  color: #222222;
+  font-size: 100px;
+}
+
+.portfolio {
+  background-image: url('/images/vzGu4kz-1.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #222222;
   font-size: 100px;
 }
 
 .services {
-  background-image: url('/images/img-1.jpg');
+  background-image: url('/images/44BmXrx.jpg');
   background-position: center;
   background-size: fill;
   background-repeat: no-repeat;
